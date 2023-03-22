@@ -1,7 +1,8 @@
 #include "main.h"
-/*
- * function print_alphabet : for print alphabets
- */
+/**
+* print_alphabet - print all alphabet in lowercase
+*/
+
 
 void print_alphabet(void)
 {
